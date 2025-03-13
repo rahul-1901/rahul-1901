@@ -60,21 +60,6 @@
 
 ###
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-1901&show_icons=true&theme=dark" height="220" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-1901&layout=compact&theme=dark" height="220" alt="Top Languages" />
-</div>
-
-
-###
-
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
