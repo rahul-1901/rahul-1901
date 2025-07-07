@@ -20,36 +20,22 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="10" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="10" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="10" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="10" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="10" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="10" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="10" alt="ubuntu logo"  />
-  <img width="12" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="react" />
+  <img src="https://skillicons.dev/icons?i=git" alt="git" />
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="python" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="10" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="10" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="10" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="10" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="10" alt="docker logo"  />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" />
+<img src="https://skillicons.dev/icons?i=express" alt="express" />
+<img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" />
+<img src="https://skillicons.dev/icons?i=github" alt="github" />
+</p>
+<br>
 
 ###
 
