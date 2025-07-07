@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
 </div>
 
 ###
@@ -27,19 +27,15 @@
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
   <img src="https://skillicons.dev/icons?i=docker" alt="docker"/>
   <img src="https://skillicons.dev/icons?i=python" alt="python" />
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" />
-<img src="https://skillicons.dev/icons?i=express" alt="express" />
-<img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" />
-<img src="https://skillicons.dev/icons?i=github" alt="github" />
+  <img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" />
+  <img src="https://skillicons.dev/icons?i=express" alt="express" />
+  <img src="https://skillicons.dev/icons?i=github" alt="github" />
 </p>
 <br>
 
 ###
 
-<h3 align="left"><img height="20" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"  />   Let's Connect</h3>
+<h3 align="left"> Let's Connect</h3>
 
 <div align="left">
   <a href="https://www.instagram.com/rahulyadav_1916/?__pwa=1" target="_blank">
