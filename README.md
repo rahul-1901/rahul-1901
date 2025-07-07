@@ -35,16 +35,6 @@
 
 ###
 
-<h3 align="left"> Let's Connect</h3>
-
-<div align="left">
-  <a href="https://www.instagram.com/rahulyadav_1916/?__pwa=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahul-1901/rahul-1901/output/github-snake-dark.svg" />
