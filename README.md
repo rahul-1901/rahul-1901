@@ -117,7 +117,6 @@ const rahul = {
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahul-1901&theme=tokyonight&utcOffset=5.5" alt="Productive time of day" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahul-1901&theme=tokyonight" alt="Profile details" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahul-1901&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
 
 <img src="https://img.shields.io/badge/Pull_Shark_x3-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark x3" />
 <img src="https://img.shields.io/badge/Starstruck-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Starstruck" />
