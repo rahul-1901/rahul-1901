@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Rahul Yadav - Full-Stack, Backend & Distributed Systems, Problem Solver" width="100%" />
-
 <a href="https://github.com/rahul-1901">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=Building+distributed+systems+that+scale+%F0%9F%9A%80;Full-Stack+%7C+Backend+%7C+Mobile+%7C+DevOps;Microservices%2C+API+gateways%2C+Redis%2C+Docker;Solving+problems+in+C%2B%2B+%26+Python+%F0%9F%A7%A0;Open+to+collaborate+%E2%80%94+let%27s+build+something" alt="Typing SVG" />
 </a>
@@ -76,33 +74,6 @@ const rahul = {
 
 <br/>
 
-## `> cat projects.md`
-
-<div align="center">
-
-<a href="https://github.com/rahul-1901/HackSprint"><img src="assets/proj-hacksprint.svg" alt="HackSprint" width="100%" /></a>
-
-<table>
-  <tr>
-    <td><a href="https://github.com/rahul-1901/URBAN-LUXE"><img src="assets/proj-urbanluxe.svg" alt="URBAN-LUXE" width="100%" /></a></td>
-    <td><a href="https://github.com/rahul-1901/Movie_Recommendation"><img src="assets/proj-movie.svg" alt="Movie Recommendation" width="100%" /></a></td>
-    <td><a href="https://github.com/parthsarthibuilders/parthweb"><img src="assets/proj-parthweb.svg" alt="parthweb" width="100%" /></a></td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-## `> ./system --watch`
-
-<div align="center">
-  <img src="assets/system.svg" alt="Animated HackSprint microservice architecture: browser to API gateway to six services, Redis and Prometheus" width="100%" />
-  <sub>How HackSprint is wired: one gateway origin, six services, Redis, Prometheus. Traffic shown is simulated.</sub>
-</div>
-
-<br/>
-
 ## `> cat principles.md`
 
 | | Principle | In practice |
@@ -140,8 +111,6 @@ const rahul = {
 ### Contribution charts
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-1901&bg_color=0d0820&color=e9d5ff&line=a855f7&point=22d3ee&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahul-1901&theme=tokyonight" alt="Repos per language" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahul-1901&theme=tokyonight" alt="Most-used language by commits" />
